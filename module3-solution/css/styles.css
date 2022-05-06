@@ -1,4 +1,8 @@
 
+.navbar-default {
+    background-color: #ccc;
+    border-color: #777;
+}
 
 div > p {
 	text-align: justify;
@@ -34,7 +38,7 @@ div > p {
 	}
 	
 	#collapsable-nav {
-		background-color: gray;
+		background-color: lightgray;
 	}
 	
 	#nav-list {		
