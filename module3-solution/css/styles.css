@@ -2,10 +2,11 @@
 
 div > p {
 	text-align: justify;
+	color: 000000;
 }
 
 .content-cell {
-	background-color: gray;
+	background-color: AAAAAA;
 	margin-bottom: 15px;
 	padding: 10px 15px;
 }
@@ -32,7 +33,7 @@ div > p {
 	}
 	
 	#collapsable-nav {
-		background-color: gray;
+		background-color: AAAAAA;
 	}
 	
 	#nav-list {		
@@ -47,6 +48,6 @@ div > p {
 	}
 	#nav-list li:hover{
 		font-weight: bold;
-		background-color: gray;
+		background-color: AAAAAA;
 	}
 }
