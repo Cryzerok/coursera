@@ -3,6 +3,7 @@
 div > p {
 	text-align: justify;
 	color: black;
+	font-size: 18px;
 }
 
 .content-cell {
@@ -33,7 +34,7 @@ div > p {
 	}
 	
 	#collapsable-nav {
-		background-color: lightgray;
+		background-color: gray;
 	}
 	
 	#nav-list {		
